@@ -30,28 +30,6 @@ This application must retrieve and aggregate accounts and transactions data as d
 
 ---
 
-## Installing
-
-```
-npm install
-```
-
----
-
-## Building
-
-```
-npm run build
-```
-
-Or you can use :
-
-```
-npm run watch
-```
-
----
-
 ## Starting
 
 ```
