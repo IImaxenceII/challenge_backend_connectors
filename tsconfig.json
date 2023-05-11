@@ -4,7 +4,7 @@
     "module": "NodeNext",
     "outDir": "dist",
     "rootDir": "src",
-    "types": ["node", "jest"],
+    "types": ["node", "jest", "mocha"],
     "esModuleInterop": true
   },
   "include": ["src/**/*"]
